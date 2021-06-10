@@ -3,7 +3,7 @@
 # Demonstration Code - Handling the FormClosing Event
 This project is intended to demonstrate a couple of ways of handling a FormClosing event (Form Close Button 'X')
 
-## This project demonstrates handling the FormClosing event for Exiting the Application, forcing the user to exit the application using a menu selection (File/Exit). It also demonstrates handling the FormClosing Event for closing the current form forcing the user to "Return" the application using a menu selectioin and returning to the previous screen/form.
+## This project demonstrates handling the FormClosing event for Exiting the Application, forcing the user to exit the application using a menu selection (File/Exit). It also demonstrates handling the FormClosing Event for closing the current form, forcing the user to use the "Return" menu selection in order to return to the previous screen/form.
 
 ### Project Introduction
 
