@@ -1,6 +1,6 @@
 Your Project Logo/Icon: 
 
-![alt text](https://github.com/JamesFlippin/Final-Project-21SP_StudentTemplate/blob/main/TSTCLogo.png "TSTC Logo")
+![TSTC Logo](https://github.com/TSTC-CPT/Demo_FormClosingEvent/blob/main/TSTCLogo.png "TSTC Logo")
 
 # Demonstration Code - Handling the FormClosing Event
 This project is intended to demonstrate a couple of ways of handling a FormClosing event (Form Close Button 'X')
