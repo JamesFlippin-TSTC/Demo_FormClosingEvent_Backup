@@ -39,7 +39,6 @@ Contact | Information
 Name | James Flippin
 Email | james.flippin@tstc.edu
 
-### License
 ### <a href="https://github.com/TSTC-CPT/Demo_FormClosingEvent/blob/main/LICENSE">License</a>
 GNU General Public License v3.0
 
